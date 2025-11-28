@@ -1,5 +1,5 @@
 {
-  "name": "alicealvarez550/contrib-auto-laravel",
+  "name": "alicealvarez550/opentelemetry-auto-laravel",
   "description": "OpenTelemetry auto-instrumentation for Laravel",
   "keywords": ["opentelemetry", "otel", "open-telemetry", "tracing", "laravel", "instrumentation"],
   "type": "library",
